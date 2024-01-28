@@ -1,5 +1,7 @@
 # UNITAR-Project-Business-Plan
-This project is data driven. It is based on a loss management model to reduce egg production losses which are inevitable in egg production. From proven research egg production losses up to commercialization reach 40% of the total produced eggs. Which means only 60% of eggs on average get to the shielf due to technical issues like breakages and standard size requirements. More over more losses are incured due to limited sheilf life and packaging breakages which translates to loss of value. A loss management solution is then required for value addition of egg breakages and meet the egg demand in the market. 
+This project is data driven. It is based on a loss management model to reduce egg production losses which are inevitable in egg production. From proven research egg production losses up to commercialization reach 40% of the total produced eggs. Which means only 60% of eggs on average get to the shielf due to technical issues like breakages and standard size requirements. More over more losses are incured due to limited sheilf life and packaging breakages which translates to loss of value. A loss management solution is then required for value addition of egg breakages and meet the egg demand in the market.
+
+![Trend analysis](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/37d7c191-f81f-47c4-a085-aa98b077279f)
 
 ## Scope of Project
 Egg Processing business. Easy Egg Processing focuses on the strategy of value addition and/or Egg loss management of low demand egg produce like extra small eggs and extra large eggs
