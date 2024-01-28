@@ -30,13 +30,22 @@ We met each other 3 years ago in Zimbabwe before covid 19 derailed our startup p
 
 #### b. Legal
 
-Our company is an LtD based in the Dark Side of the Moon. Although the Moon is far away, Moon law is clear and straightforward with a tax rate of 9.9% and a VAT of 13%.
+### Beneficiaries of Easy Egg Processing
+Easy egg processing start up process will involve agreement of start up partners involved and their roles and share in Easy Egg.
+
+### Idea Security
+The start up process also involves registration of a None Disclosure Agreement document under legal guidance. This document gives Easy egg the liberty to pitch its idea and vision to potential and
+interested investors and partners with closure legal agreement. Business Plan and Strategy Easy Egg Processing will use the capacity closure business mode, plan and strategy to acquire financial
+support. Capacity closure business model gives us the advantages to:
+1. Approach Investors providing less risk but more of real market search experience before financial closure support.
+2. Approach Market (Egg producers and consumers) incapacitated with the ability to produce liquid egg products if given the go.
+3. To approach potential partners with the capacity to at least buy the egg processing plant thus making ourselves the easy egg beneficiaries relevant to the partnership deal proposal. This process also involves coming up with a start up budget for Easy Egg production.
 
 ##### Shareholding
 |          | Shares |
 |----------|--------|
-| Bob      |   50%  |
-| Jen      |   50%  |
+| Easy Egg |   60%  |
+| Partner  |   40%  |
 
 ### Market
 
@@ -48,11 +57,11 @@ The capital city Harare enbodies two of the largest egg producing companies in Z
 
 ##### Expansion Map
 
-|                       | Jun'28  | Dec '29 | Jun '31 | Dec '31 |
-|-----------------------|:-------:|:-------:|:-------:|:-------:|
-| Mashonaland Province  |  :key:  |  :key:  |  :key:  |  :key:  |
-| Provincial Expansion  |         |         |  :key:  |  :key:  |
-| Regional Expansion    |         |         |         |  :key:  |
+|                       | Jun'2028  | Dec '2029 | Jun '2031 | Dec '2031 |
+|-----------------------|:---------:|:---------:|:---------:|:---------:|
+| Mashonaland Province  |    :key:  |    :key:  |    :key:  |    :key:  |
+| Provincial Expansion  |           |           |    :key:  |    :key:  |
+| Regional Expansion    |           |           |           |    :key:  |
 
 #### b. Competition
 
