@@ -82,9 +82,13 @@ Since we are a partnership company our major competitor will be the normal eggs 
 Liquid Egg products are a weight to weight conversion to the common table eggs. The above Product Price weight comparison reveals that on a weight to weight conversion liquid eggs and or powdered eggs are cheaper compared to the common table eggs.
 
 ### Product
+We will sell high quality liquid eggs to our customers. Customers will be pleasantly surprised at how attentive we are in regards to their needs. The business operates on the assumption that it will do whatever is reasonably necessary to keep the customer happy. This reflects the notion that if the customer is kept happy; long-term profits are ensured. Our product besides being extracted from a loss management point of view it will also offer competition to the conventional egg in the market.
 
-Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
-
+**Service Comparison of liquid Egg and Conventional egg**
+**Size/Package:** Liquid egg sizing is a weight on weight comparison to the conventional egg.
+**Price Model:** The conventional egg price is based on the grading which translates to a model based on weight or grade. Liquid Egg price is based on content irregardless of grade or size of the egg.
+**Customer Needs:** The conventional egg provides all customers with a combination of the yolk and the egg white irrespective of the customer intended use of the egg. Liquid Eggs provide content specifically towards the need of the customer. If the customer wants 80% yolk of the egg content per litre that’s what liquid egg will provide. Liquid egg provides the direct need of the customer.
+**Storage:** The conventional egg can be stored easily on the shelf but limited shelf life. Depending on the need of the customer Liquid eggs come in various forms that is plain product, preserved liquid egg for more shelf life and powdered egg.
 
 ##### Product Features
 
@@ -95,23 +99,24 @@ Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and
 | Ready-Yolk      | Similar to a fresh egg regardless of the reduced York content Long shelf life         |
 
 ### Operations
+This business plan will focus on having a compact automated plant for egg processing i.e using the streamline plant. The business will require a building space that can occupy the streamline plant including storage space for processed egg products and eggs to be processed.
 
-Core production is done in west Sahara. We'll stay there, expanding our current factory according to any emerging needs. Our Marketing team will be distributed into strategic areas around the globe.
+![Start up Plant](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/c7130da0-651c-41e1-b41f-c743cd88f2a0)
 
 #### a. Production
 
 ##### Technical Specifications:
 ![System](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/ba9822aa-bdec-4db6-9226-2b119fdb2230)
 
-*   **Design:** Jen designs a Dummy-D version. Bob analyzes and creates the BoM.
-*   **Development:** We order all needed supplies. Our robots assemble them into a Spacecraft.
+*   **Design:** Eric designs the system version. Iddo analyzes and creates the BoM.
+*   **Development:** We order all needed supplies from Sannovo.
 *   **Land Testing:** We check each and every part of the new Spacecraft individually.
 *   **Space Testing:** All Spacecrafts travel at least once before they officially take off.
 
 #### b. Risks
 
 *   **Supply failure:** We sign long term contracts with long-established supply companies.
-*   **Delays:** Delays are reimbursed by our insurance partner for a flat fee of 200 drachmas/year.
+*   **Delays:** Delays are reimbursed by the standards isociation to meet the required standards within the market.
 
 ### Financials
 
