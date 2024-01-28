@@ -86,55 +86,22 @@ Liquid Egg products are a weight to weight conversion to the common table eggs. 
 Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
 
 
+##### Product Features
 
-##### Features
-
-|                 | Description                                                                        |
-|-----------------|------------------------------------------------------------------------------------|
-| Liquid Egg      | A 24/7 3 yottabytes/spacesec download and 7 yottabytes/spacesec upload connection. |
-| Powdered Egg    | Anatomical sticky sofas that let you fly without having your seatbelt fastened.    |
-| Ready-Yolk      | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
-| Dry York        | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
-
-
-##### Technical Specifications: How these products will be made
-![System](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/ba9822aa-bdec-4db6-9226-2b119fdb2230)
-
-*   Simple: Includes all the above features in the ticket price.
-*   Premium: Includes free flight from traveler's place to our space station.
-*   Platinum: Includes Premium plus meeting with space creatures services.
-
-_note:_ Premium & Platinum packages will be introduced after the 1st operating year.
-
-#### Products
-
-
-
-### Marketing
-
-We exclusively distribute our flight tickets through our website. The Simple ticket price is 10k drachmas per traveler. Payments are processed online. At the moment our core KPI is "Number of pre-bookings/Unique Website Visitors".
-
-#### a. Traveler Personas
-
-*   **Sally:** A young mom with kids aged 3-5. She travels during summer when kids are in camp. She mainly buys, during weekends, influenced by video experience.
-*   **Jimmy:** A highly paid worker that loves relaxation. He travels during Christmas and usually books more than 6 months in advance. He buys based on simulator experience.
-
-#### b. Channels
-
-|           | Action                                                                                                        | -state-  |
-|-----------|---------------------------------------------------------------------------------------------------------------|:--------:|
-|**email**  |Nurture and increase the existing community of more than 1000 potential travelers using viral loop techniques. |-active-  |
-|**WeTube** |Get potential travelers to _"know everything about the universe"_ through a series of multimedia content. |-inactive-Q1'50 |
-|**SEO/SEM**|Get Dummy-D first in search results for terms such as 'alternative traveling' and 'space creature'.           | -active- |
-|**Simulators**|Set up Dummy-D flight simulators in strategic POIs. Use scarcity effect trick offering -5% for 24h after the simulation experience.|-inactive-Q1'51|
-
-_*  Our accumulated potential reach is more than 800,000 travelers by the end of 2050._
+|                 | Description                                                                           |
+|-----------------|---------------------------------------------------------------------------------------|
+| Liquid Egg      | Purely egg white with no York. Cholesterol free                                       |
+| Powdered Egg    | Easy storage and long shelf life, Easily be hydrated and used as normal fresh eggs    |
+| Ready-Yolk      | Similar to a fresh egg regardless of the reduced York content Long shelf life         |
 
 ### Operations
 
 Core production is done in west Sahara. We'll stay there, expanding our current factory according to any emerging needs. Our Marketing team will be distributed into strategic areas around the globe.
 
 #### a. Production
+
+##### Technical Specifications:
+![System](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/ba9822aa-bdec-4db6-9226-2b119fdb2230)
 
 *   **Design:** Jen designs a Dummy-D version. Bob analyzes and creates the BoM.
 *   **Development:** We order all needed supplies. Our robots assemble them into a Spacecraft.
