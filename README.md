@@ -48,7 +48,9 @@ support. Capacity closure business model gives us the advantages to:
 | Partner  |   40%  |
 
 ### Market
+Our company will attempt to rapidly achieve awareness in Zimbabwe about its business in the first year. To be successful in this business, we should have many customers. Thus it is of great importance to have a solid marketing strategy, in order to distinguish ourselves and gain more customers. Our marketing strategy is based upon the marketing mix, which are the 4 p’s of marketing, which are product (service), price, promotion and place (distribution).
 
+![Marketing](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/8582562f-6e2f-4bd5-b1ad-89a82c64eb77)
 
 
 #### a. Geotargeting
@@ -77,23 +79,30 @@ On one hand Dummy-D outperforms competitive players by being far more comforting
 
 Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
 
-![Dummy-D external view](https://www.ntemposd.me/blog/a-minimum-viable-business-plan/spacecraft.png "Dummy-D external view")
+
 
 ##### Features
 
-|          | Description                                                                        |
-|----------|------------------------------------------------------------------------------------|
-| Internet | A 24/7 3 yottabytes/spacesec download and 7 yottabytes/spacesec upload connection. |
-| Sofas    | Anatomical sticky sofas that let you fly without having your seatbelt fastened.    |
-| Jacuzzi  | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
+|                 | Description                                                                        |
+|-----------------|------------------------------------------------------------------------------------|
+| Liquid Egg      | A 24/7 3 yottabytes/spacesec download and 7 yottabytes/spacesec upload connection. |
+| Powdered Egg    | Anatomical sticky sofas that let you fly without having your seatbelt fastened.    |
+| Ready-Yolk      | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
+| Dry York        | Directly filled with selfiltered heavy natural thermal water from Pluto springs.   |
 
-##### Ticket Packages
+
+##### Technical Specifications: How these products will be made
+![System](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/ba9822aa-bdec-4db6-9226-2b119fdb2230)
 
 *   Simple: Includes all the above features in the ticket price.
 *   Premium: Includes free flight from traveler's place to our space station.
 *   Platinum: Includes Premium plus meeting with space creatures services.
 
 _note:_ Premium & Platinum packages will be introduced after the 1st operating year.
+
+#### Products
+
+
 
 ### Marketing
 
@@ -109,7 +118,7 @@ We exclusively distribute our flight tickets through our website. The Simple tic
 |           | Action                                                                                                        | -state-  |
 |-----------|---------------------------------------------------------------------------------------------------------------|:--------:|
 |**email**  |Nurture and increase the existing community of more than 1000 potential travelers using viral loop techniques. |-active-  |
-|**WeTube** |Get potential travelers to _"know everything about the universe"_ through a series of multimedia content.|-inactive-Q1'50 |
+|**WeTube** |Get potential travelers to _"know everything about the universe"_ through a series of multimedia content. |-inactive-Q1'50 |
 |**SEO/SEM**|Get Dummy-D first in search results for terms such as 'alternative traveling' and 'space creature'.           | -active- |
 |**Simulators**|Set up Dummy-D flight simulators in strategic POIs. Use scarcity effect trick offering -5% for 24h after the simulation experience.|-inactive-Q1'51|
 
