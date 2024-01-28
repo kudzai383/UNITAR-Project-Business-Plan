@@ -66,14 +66,18 @@ The capital city Harare enbodies two of the largest egg producing companies in Z
 | Regional Expansion    |           |           |           |    :key:  |
 
 #### b. Competition
+Since we are a partnership company our major competitor will be the normal eggs which our partners will be producing hence in actual fact our products will be competing against themselves in the market.
 
-|                 | Comfort | Security |  Price  | Total   |
-|-----------------|:-------:|:--------:|:-------:|:-------:|
-| Dummy-D         |    5    |    5     |    3    |   13    |
-| Space-X         |    4    |    5     |    4    |   13    |
-| Laika           |    3    |    5     |    5    |   13    |
+|    Liquid Egg Production  | Conversion to conventional egg size (49.6g = 1 egg) | Conventional price/ $ 0.15 per egg|  Easy Egg product price | Price variance           |
+|---------------------------|:---------------------------------------------------:|:---------------------------------:|:-----------------------:|:------------------------:|
+| 500 ml                    |    10 common eggs                                   |    $1.50                          |    $1                   |   33% price variance     |
+| 500 ml                    |    20 common eggs                                   |    $3                             |    $2                   |   40 % price variance    |
+| 5 L                       |    101 common eggs                                  |    $15.15                         |    $9                   |   45% price variance     |
+| 500g powder               |    10 common eggs                                   |    $1.50                          |    $1.25                |   14% price variance     |
+| 1 Kg powder               |    20 common eggs                                   |    $3                             |    $2.25                |   20% price variance     |
+| 5 Kg powder               |    101 common eggs                                  |    $15.15                         |    $10.25               |   30% price variance     |
 
-On one hand Dummy-D outperforms competitive players by being far more comforting. On the other hand, ticket price is higher than the market average as relaxation services addition results to higher production costs. As the totals reveal, we enter the market offering an equivalent to traditional market leaders product.
+Liquid Egg products are a weight to weight conversion to the common table eggs. The above Product Price weight comparison reveals that on a weight to weight conversion liquid eggs and or powdered eggs are cheaper compared to the common table eggs.
 
 ### Product
 
