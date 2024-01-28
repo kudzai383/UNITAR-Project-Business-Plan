@@ -13,20 +13,20 @@ invade the Continental market. Easy Egg is mainly based on the health promotion 
 
 ### Team
 
-We met each other 3 years ago in Zimbabwe before covid 19. Our goal was to create a modern company that would provide value edition to egg losses and provide income flows to SMES by reducing commercial impact limitation brought about by supply egg size standard requiremets.
+We met each other 3 years ago in Zimbabwe before covid 19 derailed our startup plan. Our goal was to create a modern company that would provide value edition to egg losses and provide income flows to SMES by reducing commercial impact limitation brought about by supply egg size standard requiremets.
 
 #### a. Members   
 
 *   **Kudzai**: An Electrical Engineer by professiona and founder of Easy Energy startup which has 3 years of existence up to date. Has worked in the Railway Industry and Non profits over the 5 years.
-*   **Eric**: A Systems engineer with a solid experience on Startup Development and Systems Design enegineering. Has worked in the line of work for more than 10 years.
-*   **Iddo**: A Marketing expert that now specializes on investments around Africa. Has managed to start several startups and major investments in Africa several and loves starting new things.
+*   **Eric**:   A Systems engineer with a solid experience on Startup Development and Systems Design enegineering. Has worked in the line of work for more than 10 years.
+*   **Iddo**:   A Marketing expert that now specializes on investments around Africa. Has managed to start several startups and major investments in Africa several and loves starting new things.
 
 ##### Expertise
 |          |               Area                    |   
 |----------|---------------------------------------|
 | Kudzai   | Startup Founder                       |
-| Bob      | Hardware and Software Development.    |
-| Jen      | Business Operations, Sales and Design.|
+| Eric     | Hardware and Software Development.    |
+| Iddo     | Business Operations, Sales and Design.|
 
 #### b. Legal
 
@@ -44,15 +44,15 @@ Our Market is constantly growing since the first trip back in 2020. By 2048 the 
 
 #### a. Geotargeting
 
-More than half of space travelers are Africans with ~50% of them being Malawians. According to the African Space Institution, the average African citizen spends more than 100k drachmas per year for travel, with more than 50% of this amount going to space traveling. Later on, Latin American and Chinese markets will also be targeted.
+The capital city Harare enbodies two of the largest egg producing companies in Zimbabwe and the largest SME egg producers in Zimbabwe. Therefore the startup initial location is favourable in Harare. In future we would like to expand to most parts of the province inorder to cover all SME egg producers. Our major expansion target over the years is to join the regional and continental export market 
 
 ##### Expansion Map
 
-|                 | Jun'50  | Dec '50 | Jun '51 | Dec '51 |
-|-----------------|:-------:|:-------:|:-------:|:-------:|
-| Central Africa  |  :key:  |  :key:  |  :key:  |  :key:  |
-| South America   |         |         |  :key:  |  :key:  |
-| China           |         |         |         |  :key:  |
+|                       | Jun'28  | Dec '29 | Jun '31 | Dec '31 |
+|-----------------------|:-------:|:-------:|:-------:|:-------:|
+| Mashonaland Province  |  :key:  |  :key:  |  :key:  |  :key:  |
+| Provincial Expansion  |         |         |  :key:  |  :key:  |
+| Regional Expansion    |         |         |         |  :key:  |
 
 #### b. Competition
 
