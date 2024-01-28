@@ -49,7 +49,7 @@ support. Capacity closure business model gives us the advantages to:
 
 ### Market
 
-Our Market is constantly growing since the first trip back in 2020. By 2048 the need of our product became clear, with more than 1.000.000 customers traveling around the universe.
+
 
 #### a. Geotargeting
 
