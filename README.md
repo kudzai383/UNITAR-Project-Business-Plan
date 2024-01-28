@@ -13,20 +13,20 @@ invade the Continental market. Easy Egg is mainly based on the health promotion 
 
 ### Team
 
-We met each other 3 years ago in Zimbabwe before covid 19 derailed our startup plan. Our goal was to create a modern company that would provide value edition to egg losses and provide income flows to SMES by reducing commercial impact limitation brought about by supply egg size standard requiremets.
+Eric and Iddo are my business mentors who have vast experience in business and startups. I have know them for over 10 years in Zimbabwe and they have mentored me and assisted me in this startup 3 years ago  before covid 19 derailed the emerging of the startup plan. Our goal was to create a modern company that would provide value edition to egg losses and provide income flows to SMES by reducing commercial impact limitation brought about by supply egg size standard requiremets.
 
 #### a. Members   
 
 *   **Kudzai**: An Electrical Engineer by professiona and founder of Easy Energy startup which has 3 years of existence up to date. Has worked in the Railway Industry and Non profits over the 5 years.
-*   **Eric**:   A Systems engineer with a solid experience on Startup Development and Systems Design enegineering. Has worked in the line of work for more than 10 years.
-*   **Iddo**:   A Marketing expert that now specializes on investments around Africa. Has managed to start several startups and major investments in Africa several and loves starting new things.
+*   **Eric**:   Mentor and Systems engineer with a solid experience on Startup Development and Systems Design enegineering. Has worked in the line of work for more than 10 years.
+*   **Iddo**:   Mentor and Marketing expert that now specializes on investments around Africa. Has managed to start several startups and major investments in Africa several and loves starting new things.
 
 ##### Expertise
-|          |               Area                    |   
-|----------|---------------------------------------|
-| Kudzai   | Startup Founder                       |
-| Eric     | Hardware and Software Development.    |
-| Iddo     | Business Operations, Sales and Design.|
+|          |               Area                            |   
+|----------|-----------------------------------------------|
+| Kudzai   | Startup Founder                               |
+| Eric     | Mentor, Hardware and Software Development.    |
+| Iddo     | Mentor, Business Operations, Sales and Design.|
 
 #### b. Legal
 
