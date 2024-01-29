@@ -122,20 +122,29 @@ This business plan will focus on having a compact automated plant for egg proces
 
 We'll be mainly spending to cover production, intellectual property, human resources and marketing needs.
 
-#### a. Sales Projection _-thousand tickets_
+#### a. Sales Projection
 
-|     |Q1 |Q2 |Q3 |Q4 |2050-Total|
-|-----|:-:|:-:|:-:|:-:|:--------:|
-|Sales| 3 | 4 | 5 | 6 |   18     |
+|                                       | Cycle-Total  |
+|---------------------------------------|:------------:|
+|Number of eggs processed per Cycle     |    500000    |
+|Average egg processing production rate |     90%      |
+|Price per litre                        |    $2.00     |
+|Price per offgrade crate               |    $3.00     |
 
-#### b. Income Statement _-in million drachmas_
+## Revenue Calculations
+|Number of eggs processed per month     |    22500     |
+|Litres of processed egg sold per month |    20250     |
+|Monthly Revenue                        |   $40,500.0  |
+|Number of months per cycle             |      18      |
 
-|                |Q1 |Q2 |Q3 |Q4 |2050-Total|
-|----------------|:-:|:-:|:-:|:-:|:--------:|
-|Revenue         |30 |40 |50 |60 |    180   |
-|Gross Profit    |15 |18 |25 |35 |     93   |
-|Operating Profit|5  |5  | 7 |7  |     24   |
-|Net Profit      |4  |4  | 6 |6  |     20   |
+#### b. Break Even Analysis
 
-* We break even at the "Xth" Journey. 
-* Our 3-year & 5-year income statements are distributed upon request :)
+|                                       | Cycle-Total  |
+|---------------------------------------|:------------:|
+|Selling Price/Unit (litre)             |      $2.00   |
+|Variable Cost/Unit (litre)             |      $0.70   |
+|Fixed Costs/Year                       |  $150,168.96 |
+|Break Even point (Litres)              |  115223      |
+
+* Therefore we must process a minimum of 115223 litres per year for our revenue to cover all our costs. 
+* Our detail business plan is provided on the summary
