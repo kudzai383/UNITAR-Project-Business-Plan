@@ -1,5 +1,6 @@
 # UNITAR-Project-Business-Plan
 This project is data driven. It is based on a loss management model to reduce egg production losses which are inevitable in egg production. From proven research egg production losses up to commercialization reach approximately 30% of the total produced eggs. Which means only 70% of eggs on average get to the shielf due to technical issues like breakages and standard size requirements. More over more losses are incured due to limited sheilf life and packaging breakages which translates to loss of value. A loss management solution is then required for value addition of egg breakages and meet the egg demand in the market.
+[Easy Egg Business Plan Revised.pdf](https://github.com/kudzai383/UNITAR-Project-Business-Plan/files/14084733/Easy.Egg.Business.Plan.Revised.pdf)
 
 ![Trend analysis](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/37d7c191-f81f-47c4-a085-aa98b077279f)
 
