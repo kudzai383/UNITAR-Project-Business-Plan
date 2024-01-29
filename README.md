@@ -1,6 +1,5 @@
 # UNITAR-Project-Business-Plan
 This project is data driven. It is based on a loss management model to reduce egg production losses which are inevitable in egg production. From proven research egg production losses up to commercialization reach approximately 30% of the total produced eggs. Which means only 70% of eggs on average get to the shielf due to technical issues like breakages and standard size requirements. More over more losses are incured due to limited sheilf life and packaging breakages which translates to loss of value. A loss management solution is then required for value addition of egg breakages and meet the egg demand in the market.
-[Easy Egg Business Plan Revised.pdf](https://github.com/kudzai383/UNITAR-Project-Business-Plan/files/14084733/Easy.Egg.Business.Plan.Revised.pdf)
 
 ![Trend analysis](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/37d7c191-f81f-47c4-a085-aa98b077279f)
 
@@ -12,8 +11,8 @@ through Egg white separation from the yolk to produce liquid egg products that i
 
 Though at its verge of emerging, Easy Egg will offer a totally new product in the market one which has not been seen on Zimbabwean shelves. Our strength is that we are not afraid of
 spreading our wings into new things and we aim to offer the best quality of the product there ever was. The company does not only aim to be a local supplier of easy-egg but to reach out and
-invade the Continental market. Easy Egg is mainly based on the health promotion of our customers which will always be a major concern for every citizen to be conscious of their health, this however will be the back born of our existence and success. It will also be based on loss management for egg producers through value addition of egg breakages, low demand extra eggs and small eggs, converting them into products with more demand based on the application. The value addition strategy is the market strategy strength to poultry egg producers for partnerships.
-
+invade the Continental market. Easy Egg is mainly based on the health promotion of our customers which will always be a major concern for every citizen to be conscious of their health, this however will be the back born of our existence and success. It will also be based on loss management for egg producers through value addition of egg breakages, low demand extra eggs and small eggs, converting them into products with more demand based on the application. The value addition strategy is the market strategy strength to poultry egg producers for partnerships. 
+[Easy Egg Business Plan Revised.pdf](https://github.com/kudzai383/UNITAR-Project-Business-Plan/files/14084733/Easy.Egg.Business.Plan.Revised.pdf)
 ### Team
 
 Eric and Iddo are my business mentors who have vast experience in business and startups. I have know them for over 10 years in Zimbabwe and they have mentored me and assisted me in this startup 3 years ago  before covid 19 derailed the emerging of the startup plan. Our goal was to create a modern company that would provide value edition to egg losses and provide income flows to SMES by reducing commercial impact limitation brought about by supply egg size standard requiremets.
