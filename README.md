@@ -1,4 +1,13 @@
 # UNITAR-Project-Business-Plan
+
+## Using Predictive Analysis with basic Spreadsheets to provide financial projections for Startup Businesses
+
+Most predictive analysis tools a expensive to buy in order to calculate you break even point and most SMEs start their businesses without using proper business projections using numbers and data from the market. I have used an excel spreadsheet sheet to predict the financials for my Startup called Easy Egg. SME can use these excel tools and formulas to convince investors or banks to hen getting loans. Predictive analysis can help SME or entrepreneurs to make informed decisions on realizing when they will start to make profit based on the numbers and not a hunch. This improves business professionalism and making realistic goals. I will demonstrate the excel spreadsheet predictive analysis and its components and also pitch the startup based on the financials received from the predictive analysis. I used the spreadsheet to generate possible cash flow insight based on assumptions, loans, balance sheet, break even point and revenue prediction.
+
+![Screenshot (431)](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/6d47574c-e38a-4eeb-8071-c4d34956a51b)
+
+## Application of Predictive Analysis Spreadsheet on my StartUp idea
+
 This project is data driven. It is based on a loss management model to reduce egg production losses which are inevitable in egg production. From proven research egg production losses up to commercialization reach approximately 30% of the total produced eggs. Which means only 70% of eggs on average get to the shielf due to technical issues like breakages and standard size requirements. More over more losses are incured due to limited sheilf life and packaging breakages which translates to loss of value. A loss management solution is then required for value addition of egg breakages and meet the egg demand in the market.
 
 ![Trend analysis](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/37d7c191-f81f-47c4-a085-aa98b077279f)
@@ -9,45 +18,8 @@ through Egg white separation from the yolk to produce liquid egg products that i
 
 ### Summary
 
-Though at its verge of emerging, Easy Egg will offer a totally new product in the market one which has not been seen on Zimbabwean shelves. Our strength is that we are not afraid of
-spreading our wings into new things and we aim to offer the best quality of the product there ever was. The company does not only aim to be a local supplier of easy-egg but to reach out and
-invade the Continental market. Easy Egg is mainly based on the health promotion of our customers which will always be a major concern for every citizen to be conscious of their health, this however will be the back born of our existence and success. It will also be based on loss management for egg producers through value addition of egg breakages, low demand extra eggs and small eggs, converting them into products with more demand based on the application. The value addition strategy is the market strategy strength to poultry egg producers for partnerships. 
+The start up idea is backed up by data analysis and financial figures that give an insight of how the finacial cash flows will look like if anyone wants to invest in this business. It is an introduction of a new product in the market therefore requires financial projections as insights towards decision making. Easy Egg business will offer a totally new product in the market one which has not been seen on Zimbabwean shelves. Our strength is that we are not afraid of spreading our wings into new things and we aim to offer the best quality of the product there ever was. The company does not only aim to be a local supplier of easy-egg but to reach out and invade the Continental market. Easy Egg is mainly based on the health promotion of our customers which will always be a major concern for every citizen to be conscious of their health, this however will be the back born of our existence and success. It will also be based on loss management for egg producers through value addition of egg breakages, low demand extra eggs and small eggs, converting them into products with more demand based on the application. The value addition strategy is the market strategy strength to poultry egg producers for partnerships. 
 [Easy Egg Business Plan Revised.pdf](https://github.com/kudzai383/UNITAR-Project-Business-Plan/files/14084733/Easy.Egg.Business.Plan.Revised.pdf)
-### Team
-
-Eric and Iddo are my business mentors who have vast experience in business and startups. I have know them for over 10 years in Zimbabwe and they have mentored me and assisted me in this startup 3 years ago  before covid 19 derailed the emerging of the startup plan. Our goal was to create a modern company that would provide value edition to egg losses and provide income flows to SMES by reducing commercial impact limitation brought about by supply egg size standard requiremets.
-
-#### a. Members   
-
-*   **Kudzai**: An Electrical Engineer by professiona and founder of Easy Energy startup which has 3 years of existence up to date. Has worked in the Railway Industry and Non profits over the 5 years.
-*   **Eric**:   Mentor and Systems engineer with a solid experience on Startup Development and Systems Design enegineering. Has worked in the line of work for more than 10 years.
-*   **Iddo**:   Mentor and Marketing expert that now specializes on investments around Africa. Has managed to start several startups and major investments in Africa several and loves starting new things.
-
-##### Expertise
-|          |               Area                            |   
-|----------|-----------------------------------------------|
-| Kudzai   | Startup Founder                               |
-| Eric     | Mentor, Hardware and Software Development.    |
-| Iddo     | Mentor, Business Operations, Sales and Design.|
-
-#### b. Legal
-
-### Beneficiaries of Easy Egg Processing
-Easy egg processing start up process will involve agreement of start up partners involved and their roles and share in Easy Egg.
-
-### Idea Security
-The start up process also involves registration of a None Disclosure Agreement document under legal guidance. This document gives Easy egg the liberty to pitch its idea and vision to potential and
-interested investors and partners with closure legal agreement. Business Plan and Strategy Easy Egg Processing will use the capacity closure business mode, plan and strategy to acquire financial
-support. Capacity closure business model gives us the advantages to:
-1. Approach Investors providing less risk but more of real market search experience before financial closure support.
-2. Approach Market (Egg producers and consumers) incapacitated with the ability to produce liquid egg products if given the go.
-3. To approach potential partners with the capacity to at least buy the egg processing plant thus making ourselves the easy egg beneficiaries relevant to the partnership deal proposal. This process also involves coming up with a start up budget for Easy Egg production.
-
-##### Shareholding
-|          | Shares |
-|----------|--------|
-| Easy Egg |   60%  |
-| Partner  |   40%  |
 
 ### Market
 Our company will attempt to rapidly achieve awareness in Zimbabwe about its business in the first year. To be successful in this business, we should have many customers. Thus it is of great importance to have a solid marketing strategy, in order to distinguish ourselves and gain more customers. Our marketing strategy is based upon the marketing mix, which are the 4 p’s of marketing, which are product (service), price, promotion and place (distribution).
@@ -151,3 +123,22 @@ The start-up costs were generated by an excel program with financial equations t
 
 * Therefore we must process a minimum of 115223 litres per year for our revenue to cover all our costs. 
 * Our detail business plan is provided on the summary.
+
+#### Legal
+
+### Beneficiaries of Easy Egg Processing
+Easy egg processing start up process will involve agreement of start up partners involved and their roles and share in Easy Egg.
+
+### Idea Security
+The start up process also involves registration of a None Disclosure Agreement document under legal guidance. This document gives Easy egg the liberty to pitch its idea and vision to potential and
+interested investors and partners with closure legal agreement. Business Plan and Strategy Easy Egg Processing will use the capacity closure business mode, plan and strategy to acquire financial
+support. Capacity closure business model gives us the advantages to:
+1. Approach Investors providing less risk but more of real market search experience before financial closure support.
+2. Approach Market (Egg producers and consumers) incapacitated with the ability to produce liquid egg products if given the go.
+3. To approach potential partners with the capacity to at least buy the egg processing plant thus making ourselves the easy egg beneficiaries relevant to the partnership deal proposal. This process also involves coming up with a start up budget for Easy Egg production.
+
+##### Shareholding
+|          | Shares |
+|----------|--------|
+| Easy Egg |   60%  |
+| Partner  |   40%  |
