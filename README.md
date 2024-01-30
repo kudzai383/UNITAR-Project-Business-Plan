@@ -77,6 +77,7 @@ We specialize in delivering high-quality liquid eggs, prioritizing customer sati
 ### Operations
 This business plan centers around implementing an efficient automated plant for egg processing, specifically utilizing a streamlined plant model. The operation will necessitate a building space capable of accommodating the streamlined plant, encompassing storage areas for both processed egg products and eggs awaiting processing.
 
+
 ![Start up Plant](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/c7130da0-651c-41e1-b41f-c743cd88f2a0)
 
 #### a. Production
