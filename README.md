@@ -14,14 +14,14 @@ This project is data driven. It is based on a loss management model to reduce eg
 
 ![Trend analysis](https://github.com/kudzai383/UNITAR-Project-Business-Plan/assets/153997269/37d7c191-f81f-47c4-a085-aa98b077279f)
 
-## Scope of Project
-Egg Processing business. Easy Egg Processing focuses on the strategy of value addition and/or Egg loss management of low demand egg produce like extra small eggs and extra large eggs
-through Egg white separation from the yolk to produce liquid egg products that include liquid egg white, egg white powder and separate Yolk. These products will be called EASY-EGG.
-
 ### Summary
 
 The start up idea is backed up by data analysis and financial figures that give an insight of how the finacial cash flows will look like if anyone wants to invest in this business. It is an introduction of a new product in the market therefore requires financial projections as insights towards decision making. Easy Egg business will offer a totally new product in the market one which has not been seen on Zimbabwean shelves. Our strength is that we are not afraid of spreading our wings into new things and we aim to offer the best quality of the product there ever was. The company does not only aim to be a local supplier of easy-egg but to reach out and invade the Continental market. Easy Egg is mainly based on the health promotion of our customers which will always be a major concern for every citizen to be conscious of their health, this however will be the back born of our existence and success. It will also be based on loss management for egg producers through value addition of egg breakages, low demand extra eggs and small eggs, converting them into products with more demand based on the application. The value addition strategy is the market strategy strength to poultry egg producers for partnerships. 
 [Easy Egg Business Plan Revised.pdf](https://github.com/kudzai383/UNITAR-Project-Business-Plan/files/14084733/Easy.Egg.Business.Plan.Revised.pdf)
+
+## Scope of Project
+Egg Processing business. Easy Egg Processing focuses on the strategy of value addition and/or Egg loss management of low demand egg produce like extra small eggs and extra large eggs
+through Egg white separation from the yolk to produce liquid egg products that include liquid egg white, egg white powder and separate Yolk. These products will be called EASY-EGG.
 
 ### Market
 Our company will attempt to rapidly achieve awareness in Zimbabwe about its business in the first year. To be successful in this business, we should have many customers. Thus it is of great importance to have a solid marketing strategy, in order to distinguish ourselves and gain more customers. Our marketing strategy is based upon the marketing mix, which are the 4 p’s of marketing, which are product (service), price, promotion and place (distribution).
